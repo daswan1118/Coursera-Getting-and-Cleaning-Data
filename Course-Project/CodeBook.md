@@ -2,7 +2,6 @@
 &nbsp;
 
 ## Data
-***
 ### Description
 Description: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  <br />
 Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
@@ -15,7 +14,6 @@ The tidy data averages of each variable (features) for each activity and each su
 &nbsp;
 
 ## Variables
-***
 
 ### Activity
 1. WALKING
@@ -79,7 +77,6 @@ Fast Fourier Transform (FFT) was applied to some of these signals producing:
 &nbsp;
 
 ## Transformation
-***
 1. Merges the training and the test sets to create one data set & appropriately labels the data set with descriptive variable names.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
