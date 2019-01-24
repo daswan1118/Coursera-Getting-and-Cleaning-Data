@@ -4,8 +4,6 @@ library(plyr)
 
 ###### 0a. Download Data and Unzip File ######
 
-setwd("C:\\Users\\Swan\\Desktop\\Codes\\Getting_and_Cleaning_Data\\Course_Project")
-
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 if (!file.exists("UCI HAR Dataset")) {
   download.file(url, "./coursera_data.zip")
